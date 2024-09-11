@@ -3,7 +3,7 @@
 
 int main(){
  float metros;
- // aqui o usuario ira inserir o valor que deseja em metros
+
  printf("insira um valor em metro:");
  scanf("%f",&metros);
  
